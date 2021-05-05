@@ -1,2 +1,11 @@
+#general
 *.class
-*.log
+.bsp
+#sbt
+target/
+
+# intellij idea
+.idea
+
+# mac
+.DS_Store
